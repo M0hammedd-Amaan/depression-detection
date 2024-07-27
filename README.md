@@ -1,2 +1,2 @@
 # depression-detection
-cyrrently working project
+currently working project
